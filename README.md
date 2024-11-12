@@ -19,13 +19,13 @@ Chaniyomi Webtoon App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/screenshot/onboardingscreen.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/screenshot/sign-up.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/screenshot/sign-in.jpg">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
