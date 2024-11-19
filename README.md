@@ -28,4 +28,17 @@ Chaniyomi Webtoon App.
 <img src="assets/images/screenshot/sign-in.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+   # Profile
+   <img src="assets/images/screenshot/profile.png"> 
+
+   # Home
+   <img src="assets/images/screenshot/home.png">  
+
+   # Library
+   <img src="assets/images/screenshot/library.png">  
+   
+   # Download
+   <img src="assets/images/screenshot/download.png">
+
+   # Category
+   <img src="assets/images/screenshot/genre.png">
