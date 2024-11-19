@@ -42,3 +42,7 @@ Chaniyomi Webtoon App.
 
    # Category
    <img src="assets/images/screenshot/genre.png">
+
+   # Screen Demo
+   < a href="https://youtu.be/uknbDvIi1w0?si=Jo8XPrzosi0q0_l5">
+   
